@@ -1,0 +1,50 @@
+## Lista pessoal para o Pihole
+
+## Malware
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Cerber_Ransomware.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt
+
+## Mobile Android
+https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/androidparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/android.txt
+
+## Ads
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/shortlinksparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/shortlinks.txt
+https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prebake-Obtrusive.txt
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclickparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclick.txt
+https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.txt
+
+## Tracking & Telemetria
+https://v.firebog.net/hosts/Easyprivacy.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.2o7Net/hosts
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SessionReplay.txt
+
+## SmartTV
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
+
+## Proxyes
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/proxiessparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/proxies.txt
+
+## DNS
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/dnsparsed
+https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/dns.txt
+
+##Suspeitos
+https://hosts-file.net/grm.txt
+https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+https://v.firebog.net/hosts/static/w3kbl.txt
+
+## Youtube ads (Talvez Não Funcione)
+https://raw.githubusercontent.com/FleuryK/pihole-ytadblock/master/ytadblock.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
