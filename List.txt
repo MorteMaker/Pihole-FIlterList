@@ -50,3 +50,7 @@ https://v.firebog.net/hosts/static/w3kbl.txt
 ## Youtube ads (Talvez Não Funcione)
 https://raw.githubusercontent.com/FleuryK/pihole-ytadblock/master/ytadblock.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
+
+## Add
+0.0.0.0 clickaine.com
+0.0.0.0 88.208.59.100
