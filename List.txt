@@ -18,6 +18,8 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclickparsed
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclick.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.txt
+https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Steven-Blacks-Porn.txt
 
 ## Tracking & Telemetria
 https://v.firebog.net/hosts/Easyprivacy.txt
